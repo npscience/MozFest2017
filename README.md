@@ -45,7 +45,7 @@ Description TBC
 
 Session schedule TBC
 
-Session outputs TBC
+[Session output documentation](https://github.com/npscience/MozFest2017/blob/master/Blockchain-workshop/Blockchain-outputs-template.md)
 
 # Sessions I'm co-facilitating
 

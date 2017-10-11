@@ -13,7 +13,7 @@ Resources around sessions I'm involved in for MozFest 2017. Join in! https://moz
 
 # Sessions I'm facilitating
 
-##eLife Open Science Soapbox Lunch
+## eLife Open Science Soapbox Lunch
 ### When? Sunday, lunchtime (times TBC)
 ### Where?
 

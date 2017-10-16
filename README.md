@@ -43,9 +43,9 @@ Description TBC
 
 [Session proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/575)
 
-Session schedule TBC
+[Session schedule](https://github.com/npscience/MozFest2017/blob/master/Blockchain-workshop/Blockchain-workshop-schedule.md)
 
-Session outputs TBC
+[Session output documentation](https://github.com/npscience/MozFest2017/blob/master/Blockchain-workshop/Blockchain-outputs-template.md)
 
 # Sessions I'm co-facilitating
 

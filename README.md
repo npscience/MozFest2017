@@ -1,45 +1,54 @@
 # MozFest2017
-Resources around sessions I'm involved in for MozFest 2017. Join in! https://mozillafestival.org/tickets
+Resources around sessions pertinent to open science for MozFest 2017. Join in! https://mozillafestival.org/tickets
 
 # Key resources
 
-- [ ] My schedule TBC
+* Help us [map the schedule](https://github.com/npscience/MozFest2017/blob/master/Open-science-schedule.md) :sparkles:
 
-- [ ] Outputs TBC
+* Sign up for eLife open science soapbox at https://github.com/npscience/MozFest2017/issues/6 (or in person, see details in issue). Short URL: http://bit.ly/soapbox-signup
 
-- [ ] Projects to contribute to TBC
+* Add your project to Mozilla Network Pulse [directly](https://www.mozillapulse.org/add) — include the tags 'open science soapbox' 'open science' ' mozfest'  more maximum exposure!
 
-- [ ] Help needed TBC
+___
 
 # Sessions I'm facilitating
 
 ## eLife Open Science Soapbox Lunch
-### When? Sunday, lunchtime (times TBC)
-### Where?
+### When? Sunday lunchtime, 12:45-13:45
+### Where? Level 8 - Boardroom
 
-Official partnership Mozilla and eLife. Full description TBC
+Grab your lunch and head up to the Boardroom (level 8) to get collaborative and interactive with (or just sit and absorb) open science.
 
-Session schedule TBC
+**Are you leading a project**, or planning to start one, that will help researchers to discover, share, consume or evaluate open research? We invite you to share details about your own project and ways in which the community could help you in a two-minute talk during this event.
 
-Session outputs TBC
+**Maybe you are interested to contribute to someone else's project** for open science — come hear what's on offer and meet the people involved!
+
+### Sign up for a slot at the soapbox
+To sign up for a slot, you can:
+* Post a comment at #6
+* Sign up in person at the Open Science Public Park (level 9 - 903, all weekend)
+* Sign up at the event — join us on floor 8 from 12:30pm to sign up for any remaining slots
+
+We should have time for 15 speakers. Talks will start at 12:45pm and we will get through as many as we can before 1:45pm.
 
 ## Open Science Public Park
 ### When? All weekend
-### Where? Gallery; Open Innovation
+### Where? Level 9 - 903
 
-Description TBC
+Gallery; Open Innovation
+
+[Guidebook]()
 
 [Session proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/574)
 
-Session schedule TBC
-
-Session outputs TBC
 
 ## Blockchain for Research: Opportunity or Hype?
 ### When? Sunday, 11am-12pm
-### Where? The Shed; Decentralisation
+### Where? Level 6 - 600
 
-Description TBC
+The Shed; Decentralisation
+
+[Guidebook]()
 
 [Session proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/575)
 

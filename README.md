@@ -38,21 +38,22 @@ We should have time for 15 speakers. Talks will start at 12:45pm and we will get
 
 ## Open Science Public Park
 ### When? All weekend
-### Where? Gallery; Open Innovation
+### Where? Level 9 - 903
 
-Description TBC
+Gallery; Open Innovation
+
+[Guidebook]()
 
 [Session proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/574)
 
-Session schedule TBC
-
-Session outputs TBC
 
 ## Blockchain for Research: Opportunity or Hype?
 ### When? Sunday, 11am-12pm
-### Where? The Shed; Decentralisation
+### Where? Level 6 - 600
 
-Description TBC
+The Shed; Decentralisation
+
+[Guidebook]()
 
 [Session proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/575)
 

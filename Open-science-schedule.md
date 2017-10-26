@@ -36,7 +36,7 @@ Please pick a theme and a day, and go wild. Themes already covered are listed be
 
 SESSION (link on guidebook) | Time | Location | Facilitators | Resources | Who's going to this?
 --- | --- | --- | --- | --- | ---
-Saturday | --- | --- | --- | --- | ---
+**Saturday** | --- | --- | --- | --- | ---
 [*BRRRAAaaaaiiiiNNNNNZZZZZ!!!!*](https://guidebook.com/guide/114124/event/16741291/) | 10:00-12:15 | Level 9-907 | @katjaq | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/722) "Here is a little demo video that we made and [here]( http://brainbox.pasteur.fr/project/abide1) is our tool live with an example human brain from a big open data set." "| ---
 [*Building Google Docs without the Google (CRDT + IPFS)*](https://guidebook.com/guide/114124/event/16741296/) | 10:00-11:00 | Level 6-600 | @diasdavid | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/130) | ---
 [*Decentralization and Dignity against Digital Colonialism*](https://guidebook.com/guide/114124/event/16741334/) | 10:00-11:00 | Level 6-600 | Renata Avila | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/556) | ---
@@ -58,3 +58,7 @@ Saturday | --- | --- | --- | --- | ---
 [*The Upside of Down: Personal stories of failure, reinvention, and challenges faced by innovative people & open communities*](https://guidebook.com/guide/114124/event/16741547/) | 16:30-17:30 | Level 9-907 | @daniellecrobinson | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/202) | @npscience
 [*Re-decentralizing the Web with a peer-to-peer browser*](https://guidebook.com/guide/114124/event/16741495/) | 16:30-17:30 | Level 6-600 | @taravancil | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/96) | ---
 [*Will the Open Internet Survive?*](https://guidebook.com/guide/114124/event/16741580/) | 16:30-17:30 | Level 6-600 | Gigi Sohn | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/674) | ---
+--- | --- | --- | --- | --- | ---
+**Sunday** | --- | --- | --- | --- | ---
+
+^^ please help make Sunday you :heart:ly people :zap:

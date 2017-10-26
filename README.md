@@ -3,6 +3,11 @@ Resources around sessions I'm involved in for MozFest 2017. Join in! https://moz
 
 # Key resources
 
+* Sign up for eLife open science soapbox at https://github.com/npscience/MozFest2017/issues/6 (or in person, see details in issue). Short URL: http://bit.ly/soapbox-signup
+
+* Add your project to Mozilla Netowrk Pulse [directly](https://www.mozillapulse.org/add) or via the eLife open science soapbox (fill in this form)
+
+
 - [ ] My schedule TBC
 
 - [ ] Outputs TBC

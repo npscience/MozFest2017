@@ -11,16 +11,37 @@ So let's make sure someone is at everything, and it would be great to compile re
 We can be like this:
 **insert gif of amorphous organism forming**
 
+# To contribute
+
+Please use this template:
+[*example title*](guidebook link) | 14:00-15:00 | Level 9-903 | @someone | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/XXX) | @someone
+
+Please pick a theme and a day, and go wild. Themes already covered are listed below:
+  - [x] open innovation Saturday
+  - [ ] open innovation Sunday
+  - [x] decentralization Saturday
+  - [ ] decentralization Sunday
+  - [ ] digital inclusion Saturday
+  - [ ] digital inclusion Sunday
+  - [ ] privacy and security Saturday
+  - [ ] privacy and security Sunday
+  - [ ] web literacy Saturday
+  - [ ] web literacy Sunday
+  - [ ] youth zone Saturday
+  - [ ] youth zone Sunday
+  * and any other!
+
+
 SESSION (link on guidebook) | Time | Location | Facilitators | Resources | Who's going to this?
 --- | --- | --- | --- | --- | ---
 Saturday | --- | --- | --- | --- | ---
-[*title*](guidebook link) | 14:00-15:00 | Level 9-903 | @someone | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/XXX) | @someone
 [*BRRRAAaaaaiiiiNNNNNZZZZZ!!!!*](https://guidebook.com/guide/114124/event/16741291/) | 10:00-12:15 | Level 9-907 | @katjaq | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/722) "Here is a little demo video that we made and [here]( http://brainbox.pasteur.fr/project/abide1) is our tool live with an example human brain from a big open data set." "| ---
+[*Building Google Docs without the Google (CRDT + IPFS)*](https://guidebook.com/guide/114124/event/16741296/) | 10:00-11:00 | Level 6-600 | @diasdavid | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/130) | @someone
 [*Scientific computing for the terabyte-less*](https://guidebook.com/guide/114124/event/16741507/) | 11:15-12:15 | Level 9-902 | @tpoisot | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/180) | @npscience
 [*Innovate with Open Science Hardware!*](https://guidebook.com/guide/114124/event/16741419/) | 14:00-15:00 | Level 9-903 | @MakerTobey | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/309) | ---
 [*Changing the publishing ecosystem: preprints and beyond*](https://guidebook.com/guide/114124/event/16741300/) | 14:00-15:00 | Level 9-902 | @SamanthaHindle | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/757) | @npscience
 [*Democratizing Artificial Intelligence*](https://guidebook.com/guide/114124/event/16741341/) | 14:00-16:15 | Level 9-907 | @evanp | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/295) | ---
-[*Copyright battle*](guidebook link) | 15:15-16:15 | Level 9-903 | Alek Tarkowski | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/599) | ---
+[*Copyright battle*](https://guidebook.com/guide/114124/event/16741505/) | 15:15-16:15 | Level 9-903 | Alek Tarkowski | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/599) | ---
 [*What resources do we need to break down barriers to open science?*](https://guidebook.com/guide/114124/event/16741309/) | 15:15-16:15 | Level 9-902 | @rainsworth | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/582) | @npscience
 [*The Open Teach-R Project Workshop: creating fun R courses*](https://guidebook.com/guide/114124/event/16741544/) | 16:30-17:30 | Level 9-902 | @marcosvcvital | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/595)
 [*DIY Brain-Computer Interface Showcase*](https://guidebook.com/guide/114124/event/16741272/) | 16:30-17:30 | Level 9-903 | @jdpigeon | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/264) | ---

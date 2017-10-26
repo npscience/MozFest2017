@@ -2,7 +2,7 @@
 
 Welcome and thank you for thinking about contributing to the [open science schedule for MozFest 2017](https://github.com/npscience/MozFest2017/blob/master/Open-science-schedule.md)! :smiley::heart::smiley:
 
-**First and foremost** THANK YOU [Danielle](@DanielleCRobinson) and [Kirstie](@KirstieJane) for [the basis on which this file is built](https://github.com/KirstieJane/OpenAdvice/blob/master/CONTRIBUTING.md). Your personalities are woven in forever :love:
+**First and foremost** THANK YOU [Danielle](@DanielleCRobinson) and [Kirstie](@KirstieJane) for [the basis on which this file is built](https://github.com/KirstieJane/OpenAdvice/blob/master/CONTRIBUTING.md). Your personalities are woven in forever :heart:
 
 Ok, so you're new to this page? Before you start you'll need to set up a free [GitHub][https://github.com/] account and sign in. Here are some [instructions][https://help.github.com/articles/signing-up-for-a-new-github-account/].
 
@@ -18,15 +18,15 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 1. It's best practise to say what you plan to do first (here's [a nice explanation of why](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/)) - BUT this is quick and dirty and creative, so just do small things quickly and keep :fingers_crossed:
     
-2. [Fork][https://help.github.com/articles/fork-a-repo/] the [MozFest2017 repo][https://github.com/npscience/MozFest2017] to your profile.
+2. [Fork](https://help.github.com/articles/fork-a-repo/) the [MozFest2017 repo](https://github.com/npscience/MozFest2017) to your profile.
 
     You can now do whatever you want with this copy of the project. You won't mess up anyone else's work so you're super safe.
 
 3. Make the changes you've discussed.
 
-    Try to keep the changes focused rather than changing lots of things at once. If you feel tempted to branch out then please *literally* branch out: create [separate branches][link_branches] for different updates to make the next step much easier!
+    Try to keep the changes focused rather than changing lots of things at once. If you feel tempted to branch out then please *literally* branch out: create [separate branches]{https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) for different updates to make the next step much easier!
 
-4. Submit a [pull request][https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/].
+4. Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/).
     
     A member of the executive team will review your changes, have a bit of discussion and hopefully merge them in!
 

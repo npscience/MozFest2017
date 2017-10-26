@@ -1,20 +1,15 @@
 # MozFest2017
-Resources around sessions I'm involved in for MozFest 2017. Join in! https://mozillafestival.org/tickets
+Resources around sessions pertinent to open science for MozFest 2017. Join in! https://mozillafestival.org/tickets
 
 # Key resources
+
+* Help us [map the schedule](https://github.com/npscience/MozFest2017/blob/master/Open-science-schedule.md) :sparkles:
 
 * Sign up for eLife open science soapbox at https://github.com/npscience/MozFest2017/issues/6 (or in person, see details in issue). Short URL: http://bit.ly/soapbox-signup
 
 * Add your project to Mozilla Network Pulse [directly](https://www.mozillapulse.org/add) — include the tags 'open science soapbox' 'open science' ' mozfest'  more maximum exposure!
 
-
-- [ ] My schedule TBC
-
-- [ ] Outputs TBC
-
-- [ ] Projects to contribute to TBC
-
-- [ ] Help needed TBC
+___
 
 # Sessions I'm facilitating
 

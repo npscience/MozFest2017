@@ -1,10 +1,10 @@
 # Contributing to Open Science resources at MozFest 2017
 
-Welcome and thank you for thinking about contributing! :smiley::heart::smiley:
+Welcome and thank you for thinking about contributing to the [open science schedule for MozFest 2017](https://github.com/npscience/MozFest2017/blob/master/Open-science-schedule.md)! :smiley::heart::smiley:
 
-**First and foremost** THANK YOU @danielle @KirstieJane for the basis on which this file is built. Your personalities are woven in forever :love:
+**First and foremost** THANK YOU [Danielle](@DanielleCRobinson) and [Kirstie](@KirstieJane) for [the basis on which this file is built](https://github.com/KirstieJane/OpenAdvice/blob/master/CONTRIBUTING.md). Your personalities are woven in forever :love:
 
-Ok, so you're new to this page? Before you start you'll need to set up a free [GitHub][link_github] account and sign in. Here are some [instructions][link_signupinstructions].
+Ok, so you're new to this page? Before you start you'll need to set up a free [GitHub][https://github.com/] account and sign in. Here are some [instructions][https://help.github.com/articles/signing-up-for-a-new-github-account/].
 
 Scroll down or jump to one of the following sections:
 

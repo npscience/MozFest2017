@@ -1,7 +1,5 @@
 # Expected outputs
 
-*To be documented live during the session. Ask to record screen for use as a GIF later (e.g. comparing opinion at beginning versus end of session).*
-
 ## Introduction
 
 Number of people in the room: 16 - came after 1
@@ -29,8 +27,6 @@ Blockchain for research: is it …?
 * both 1
 * inappropriate 1
 
-Participants are invited to document contact details in issue #2 if you are keen to share with the participants / contribute in the future.
-
 ## What is vision for research communication?
 
 What is academic publishing?
@@ -45,8 +41,7 @@ Findability, efficient to find
 
 **POST-IT MAIN POINTS - PINK AND YELLOW**
 
-Notes:
-
+Notes to follow from photo!
 
 ## What is opportunity for blockchain?
 
@@ -63,8 +58,7 @@ What is blockchain?
 
 **POST-IT MAIN POINTS - BLUE AND GREEN**
 
-Notes:
-
+Notes to follow from photo!
 
 ## Is blockchain for research an opportunity?
 
@@ -73,7 +67,10 @@ Notes:
 **DISCUSSION (15 minutes)**
 
 Notes:
-
+* Distribution - has come up in both camps, but has different meanings. For blockchain, assets are distributed peer-to-peer. These assets are just the record though, not the content. In academic publishing, the problem with distribution is to do with who has the rights to access and use the information (copyright, closed access)
+* Integrity - who has done what is described, allows fairer distribution of credit
+* 
+* The process of who gets to be published is currently not inclusive - controlled by a group of experts, typically an old white male game. The principles of blockchain could help make this more inclusive and democratic.
 
 
 ## Conclusion
@@ -97,9 +94,4 @@ Vote to finish: blockchain for research: is it …?
 * inappropriate --> stupid
 
 Change? hype --> opportunity, not just for fintech
-More confused now, what are the alternatives 
-
-
-## Networking
-
-Please note your details in issue #2 to share with other participants.
+More confused now, what are the alternative technologies?

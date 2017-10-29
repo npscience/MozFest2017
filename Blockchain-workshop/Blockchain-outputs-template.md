@@ -66,12 +66,13 @@ Notes to follow from photo!
 
 **DISCUSSION (15 minutes)**
 
-Notes:
+Notes to follow from photo!
+
+Initial notes:
 * Distribution - has come up in both camps, but has different meanings. For blockchain, assets are distributed peer-to-peer. These assets are just the record though, not the content. In academic publishing, the problem with distribution is to do with who has the rights to access and use the information (copyright, closed access)
 * Integrity - who has done what is described, allows fairer distribution of credit
-* 
+* Something else
 * The process of who gets to be published is currently not inclusive - controlled by a group of experts, typically an old white male game. The principles of blockchain could help make this more inclusive and democratic.
-
 
 ## Conclusion
 

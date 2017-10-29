@@ -20,17 +20,17 @@ Please use this template:
 
 Please pick a theme and a day, and go wild. Themes already covered are listed below:
   - [x] open innovation Saturday
-  - [ ] open innovation Sunday
+  - [x] open innovation Sunday
   - [x] decentralization Saturday
-  - [ ] decentralization Sunday
+  - [x] decentralization Sunday
   - [ ] digital inclusion Saturday
-  - [ ] digital inclusion Sunday
+  - [x] digital inclusion Sunday
   - [ ] privacy and security Saturday
-  - [ ] privacy and security Sunday
+  - [x] privacy and security Sunday
   - [ ] web literacy Saturday
-  - [ ] web literacy Sunday
+  - [x] web literacy Sunday
   - [ ] youth zone Saturday
-  - [ ] youth zone Sunday
+  - [x] youth zone Sunday
   * and any other!
 
 
@@ -60,5 +60,14 @@ SESSION (link on guidebook) | Time | Location | Facilitators | Resources | Who's
 [*Will the Open Internet Survive?*](https://guidebook.com/guide/114124/event/16741580/) | 16:30-17:30 | Level 6-600 | Gigi Sohn | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/674) | ---
 --- | --- | --- | --- | --- | ---
 **Sunday** | --- | --- | --- | --- | ---
+[*How to start a grassroots world-changing project with a shoestring budget*](https://guidebook.com/guide/114124/event/16741315/) | 11:00-12:00 | Level 8-804 | @seplute | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/684) | ---
+[*Reproducible Brains: An Introduction to Open Network Neuroscience in Python*](https://guidebook.com/guide/114124/event/16741498/) | 11:00-12:00 | Level 9-902 | @Islast | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/724) | ---
+[*Open Leaders Demos*](https://guidebook.com/guide/114124/event/17019454/)| 11:00-12:00 | Level 4-Library | @monsauce | Come to find open source projects to contribute to! | ---
+[*Blockchain for research: hype or opportunity?*](https://guidebook.com/guide/114124/event/16741286/) | 11:00-12:00 | Level 6-605 | @npscience | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/575) | ---
+[*The Big Open – Joining Forces on the Quest for the Free and Open*](https://guidebook.com/guide/114124/event/16741533/) | 11:00-13:15 | Level 6-604 | Nicole Eber, Wikimedia | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/728) | ---
+[*Collaborative preprint review with PREreview.org*](https://guidebook.com/guide/114124/event/16879230/) | 11:15-11:45 | Level 1-102 | @HindleSamantha @Neurosarda | --- | ---
+--- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | ---
+[*example title*](guidebook link) | 14:00-15:00 | Level 9-903 | @someone | [Original github submission](https://github.com/MozillaFoundation/mozfest-program-2017/issues/XXX) | ---
 
 ^^ please help make Sunday you :heart:ly people :zap:

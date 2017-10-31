@@ -1,6 +1,11 @@
-# Expected outputs
+---
+title: "Blockchain for research: hype or opportunity - session notes"
+date: 2017-10-29T11:00:00+01:00
+---
+# Blockchain for research: hype or opportunity?
 
-*To be documented live during the session. Ask to record screen for use as a GIF later (e.g. comparing opinion at beginning versus end of session).*
+Session lead: Naomi Penfold, eLife, @npscience
+Co-=facilitator: Kade Morton, DeLoitte and Aletheia, @...
 
 ## Introduction
 
@@ -45,7 +50,7 @@ Findability, efficient to find
 
 **POST-IT MAIN POINTS - PINK AND YELLOW**
 
-Notes:
+Notes to follow from photo!
 
 
 ## What is opportunity for blockchain?
@@ -63,7 +68,7 @@ What is blockchain?
 
 **POST-IT MAIN POINTS - BLUE AND GREEN**
 
-Notes:
+Notes to follow from photo!
 
 
 ## Is blockchain for research an opportunity?
@@ -72,17 +77,20 @@ Notes:
 
 **DISCUSSION (15 minutes)**
 
-Notes:
+Notes to follow from photo!
 
+Briefly:
 
+* Distribution is common theme, separate meanings
+* Integrity
+* Assigning credit to contributors more fairly
+* Opening up the quality barrier beyond the limited pool (old white western men, traditional system)
 
 ## Conclusion
 
 **LAST 10 MINUTES**
 
-*Document concluding remarks (in live-blog,etc above)*
-
-Note some learnings/reflections from today’s sessions:
+Some learnings and reflections from today’s session:
 1) finding the opportunities - collaborative, diverse, inclusive
 2) we're still thinking in journals, that needs to change when we consider fundamental problems
 3) would adoption change HOW we do research?
@@ -97,9 +105,6 @@ Vote to finish: blockchain for research: is it …?
 * inappropriate --> stupid
 
 Change? hype --> opportunity, not just for fintech
-More confused now, what are the alternatives 
+More confused now, what are the alternatives
 
-
-## Networking
-
-Please note your details in issue #2 to share with other participants.
+# Thank you to all who participated!

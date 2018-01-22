@@ -3,6 +3,13 @@ Resources around sessions pertinent to open science for MozFest 2017. Join in! h
 
 # Key resources
 
+Post-event blogs:
+
+* Lovely write-up by @rgaiacs @yochannah @dpshelio at https://software.ac.uk/blog/2018-01-15-mozfest-2017 :heart:
+* Cool mention from Mark Boas in his report on the dentralization space at https://medium.com/mozilla-festival/decentralisation-at-the-mozilla-festival-aad3e33e1443
+
+Old links:
+
 * Help us [map the schedule](https://github.com/npscience/MozFest2017/blob/master/Open-science-schedule.md) :sparkles:
 
 * Sign up for eLife open science soapbox at https://github.com/npscience/MozFest2017/issues/6 (or in person, see details in issue). Short URL: http://bit.ly/soapbox-signup
@@ -61,23 +68,13 @@ The Shed; Decentralisation
 ## Science needs Open Source code - culture shift innovation workshop
 ### with lead facilitator Yo Yehudi
 
-Description TBC
-
 [Session proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/71)
 
-Session schedule TBC
-
-Session outputs TBC
 
 ## Changing the scientific publishing ecosystem: preprints and beyond
 ### with lead facilitators Samantha Hindle and Daniela Sarderi
 
-Description TBC
-
 [Session proposal](https://github.com/MozillaFoundation/mozfest-program-2017/issues/757)
 
-Session schedule TBC
-
-Session outputs TBC
 
 
